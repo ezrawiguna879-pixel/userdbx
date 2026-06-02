@@ -12,13 +12,5 @@
     "password": "pass2",
     "expiresAt": "2025-11-30",
     "allowOffline": false
-  },
-  
-  {
-    "id": "9bb01cef9b427022",
-    "username": "pakde01",
-    "password": "key456",
-    "expiresAt": "2026-06-03",
-    "allowOffline": false
   }
 ]
