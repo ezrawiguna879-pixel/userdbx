@@ -1,9 +1,9 @@
 [
   {
-    "id": "android_device_id_1",
-    "username": "user1",
-    "password": "pass1",
-    "expiresAt": "2025-12-31",
+    "id": "61dc94e32dab1f65",
+    "username": "tester",
+    "password": "100",
+    "expiresAt": "2025-08-22",
     "allowOffline": true
   },
   {
